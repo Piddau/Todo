@@ -1,0 +1,5 @@
+D:\Stuff\programming\Skola\Todo\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+D:\Stuff\programming\Skola\Todo\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.csprojResolveAssemblyReference.cache
+D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.pdb

@@ -1,0 +1,6 @@
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.exe.config
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.exe
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.pdb
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.exe
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.pdb

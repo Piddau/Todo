@@ -1,0 +1,6 @@
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\WcfTodo.dll.config
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\WcfTodo.dll
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\WcfTodo.pdb
+D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.csprojResolveAssemblyReference.cache
+D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.dll
+D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.pdb
