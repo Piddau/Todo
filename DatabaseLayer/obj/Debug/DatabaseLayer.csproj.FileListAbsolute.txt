@@ -1,1 +1,7 @@
 D:\Stuff\programming\Skola\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\bin\Debug\DatabaseClasses.dll
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\bin\Debug\DatabaseClasses.pdb
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Stuff\programming\Skola\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

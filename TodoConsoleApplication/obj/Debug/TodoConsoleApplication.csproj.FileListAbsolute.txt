@@ -4,3 +4,9 @@ D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleAppl
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.csprojResolveAssemblyReference.cache
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.exe
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.pdb
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\WcfTodo.dll
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\WcfTodo.pdb
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\DatabaseClasses.dll
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\DatabaseLayer.dll
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\DatabaseClasses.pdb
+D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\DatabaseLayer.pdb

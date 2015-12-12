@@ -4,3 +4,7 @@ D:\Stuff\programming\Skola\Todo\WcfTodo\bin\WcfTodo.pdb
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.csprojResolveAssemblyReference.cache
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.dll
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.pdb
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\DatabaseClasses.dll
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\DatabaseLayer.dll
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\DatabaseClasses.pdb
+D:\Stuff\programming\Skola\Todo\WcfTodo\bin\DatabaseLayer.pdb
