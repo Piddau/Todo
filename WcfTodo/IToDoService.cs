@@ -16,5 +16,13 @@ namespace WcfTodo
         [OperationContract]
         [WebGet]
         ToDo[] GetTodoLists();
+
+        [OperationContract]
+        [WebInvoke]
+        void CreateItems(string id, string Descriptions);
+
+        [OperationContract]
+        [WebInvoke]
+        void EditItem(string id, ToDo information);
     }
 }

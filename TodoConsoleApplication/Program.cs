@@ -36,6 +36,17 @@ namespace TodoConsoleApplication
                     for(int i = 0; i < todos.Length; i++)
                     {
                         Console.WriteLine("{0}. {1}", i+1 ,todos[i].Name);
+                        /*ToDo newTodo = todos[i];
+                        newTodo.Name = "Peter";
+                        channel.EditItem(todos[i].Id.ToString(), newTodo);*/
+                    }
+
+                    ToDo[] todos2 = channel.GetTodoLists();
+
+                    for (int i = 0; i < todos2.Length; i++)
+                    {
+                        Console.WriteLine("{0}. {1}", i + 1, todos2[i].Name);
+                        
                     }
                 }
             }

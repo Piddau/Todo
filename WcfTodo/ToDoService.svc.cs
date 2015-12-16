@@ -21,6 +21,30 @@ namespace WcfTodo
             
         }
 
+        /// <summary>
+        /// Skapa flera punkter genom att skriva dom med comma.
+        /// </summary>
+        /// <param name="id">Under vilken ToDo Lista skall dessa skapas.</param>
+        /// <param name="Descriptions">Strängen för att bedömma </param>
+        public void CreateItems(string id, string Descriptions)
+        {
+            
+        }
+
+        /// <summary>
+        /// Redigera en punkt.
+        /// </summary>
+        /// <param name="id">den punkt man önskar redigera</param>
+        /// <param name="information">Todon som innehåller den informationen som ska ersättas.</param>
+        public void EditItem(string id, ToDo information)
+        {
+            ToDo dbTodo = dal.GetToDoById(int.Parse(id));
+
+            dbTodo = information;
+
+            dal.UpdateToDo(dbTodo);
+        }
+
         public ToDo[] GetTodoLists()
         {
             return dal.GetToDoList().ToArray();
