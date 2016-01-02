@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatabaseClasses
+namespace DatabaseLayer
 {
-    public class Class1
+    public class Program
     {
+        public static void Main()
+        { }
     }
 }

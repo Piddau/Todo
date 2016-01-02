@@ -4,3 +4,15 @@ D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleAppl
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.csprojResolveAssemblyReference.cache
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.exe
 D:\Stuff\programming\Skola\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.exe.config
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.exe
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.exe
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\TodoConsoleApplication.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\DatabaseClasses.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\DatabaseLayer.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\WcfTodo.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\DatabaseClasses.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\DatabaseLayer.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\bin\Debug\WcfTodo.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\TodoConsoleApplication\obj\Debug\TodoConsoleApplication.csprojResolveAssemblyReference.cache

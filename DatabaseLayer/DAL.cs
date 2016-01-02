@@ -3,20 +3,22 @@ using DatabaseClasses;
 using System.Data.SqlClient;
 using System.Collections.Generic;
 
-namespace DAL
+namespace DatabaseLayer
 {
     public class DAL
     {
+
         private string ErrorMessage { get; set; }
         private SqlConnection conn;
         private static string connString;
-        private SqlCommand command;       
+        private SqlCommand command;
         private static List<ToDo> toDoList;
 
         public DAL(string _connString)
         {
-            connString = _connString;            
+            connString = _connString;
         }
+
         /// <summary>
         /// Add an ToDo
         /// </summary>
@@ -30,9 +32,9 @@ namespace DAL
                     //using parametirized query
                     string sqlInserString =
                     "INSERT INTO ToDoList (Description, Name, CreatedDate, DeadLine, EstimationTime, Finnished) VALUES ( @description, @name, @CreatedDate, @deadLine, @estimationTime, @finnished)";
-                   
+
                     conn = new SqlConnection(connString);
-                    
+
                     command = new SqlCommand();
                     command.Connection = conn;
                     command.Connection.Open();
@@ -43,13 +45,13 @@ namespace DAL
                     SqlParameter createdParam = new SqlParameter("@createdDate", toDo.CreatedDate);
                     SqlParameter deadLineParam = new SqlParameter("@deadLine", toDo.DeadLine);
                     SqlParameter estimateParam = new SqlParameter("@estimationTime", toDo.EstimationTime);
-                    SqlParameter flagParam = new SqlParameter("@finnished", toDo.Finnished ? 1:0);
+                    SqlParameter flagParam = new SqlParameter("@finnished", toDo.Finnished ? 1 : 0);
 
 
-                    command.Parameters.AddRange(new SqlParameter[]{ descriptionParam, userParam, createdParam, deadLineParam, estimateParam, flagParam });
+                    command.Parameters.AddRange(new SqlParameter[] { descriptionParam, userParam, createdParam, deadLineParam, estimateParam, flagParam });
                     command.ExecuteNonQuery();
                     command.Connection.Close();
-                    
+
                 }
             }
             catch (Exception ex)
@@ -91,7 +93,7 @@ namespace DAL
             }
             catch (Exception ex)
             {
-               ErrorMessage = ex.Message;
+                ErrorMessage = ex.Message;
             }
         }
         /// <summary>
@@ -159,15 +161,13 @@ namespace DAL
                     command.Connection.Close();
                     return toDoList;
                 }
-                
+
             }
             catch (Exception ex)
             {
                 ErrorMessage = ex.Message;
             }
             return null;
-
-
         }
 
         /// <summary>
@@ -253,15 +253,11 @@ namespace DAL
                 ErrorMessage = ex.Message;
             }
             return null;
-
-
         }
 
         public String GetErrorMessage()
         {
             return ErrorMessage;
         }
-
-
     }
 }

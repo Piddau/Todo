@@ -82,6 +82,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseClasses\DatabaseClasses.csproj">
+      <Project>{864126b2-cb70-410a-b947-c909699ff63a}</Project>
+      <Name>DatabaseClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DatabaseLayer\DatabaseLayer.csproj">
+      <Project>{d480f1ac-ade0-4b47-98f8-d7fd94caa73f}</Project>
+      <Name>DatabaseLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
