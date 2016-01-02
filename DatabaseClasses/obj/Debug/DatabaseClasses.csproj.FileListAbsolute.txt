@@ -3,3 +3,8 @@ D:\Stuff\programming\Skola\Todo\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
 D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.csprojResolveAssemblyReference.cache
 D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.dll
 D:\Stuff\programming\Skola\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseClasses\obj\Debug\DatabaseClasses.pdb

@@ -4,3 +4,13 @@ D:\Stuff\programming\Skola\Todo\WcfTodo\bin\WcfTodo.pdb
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.csprojResolveAssemblyReference.cache
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.dll
 D:\Stuff\programming\Skola\Todo\WcfTodo\obj\Debug\WcfTodo.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\WcfTodo.dll.config
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\WcfTodo.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\WcfTodo.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\DatabaseClasses.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\DatabaseLayer.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\DatabaseClasses.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\bin\DatabaseLayer.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\obj\Debug\WcfTodo.csprojResolveAssemblyReference.cache
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\obj\Debug\WcfTodo.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\WcfTodo\obj\Debug\WcfTodo.pdb

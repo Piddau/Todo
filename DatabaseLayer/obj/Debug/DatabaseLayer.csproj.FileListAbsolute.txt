@@ -1,1 +1,8 @@
 D:\Stuff\programming\Skola\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\bin\Debug\DatabaseClasses.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\bin\Debug\DatabaseClasses.pdb
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Jeton\Documents\Universitetsstudier\Backend C# Lernia\Programmering\Uppgift4_Jeton_Mustini\Todo\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

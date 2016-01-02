@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="DAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -48,14 +48,6 @@
     <ProjectReference Include="..\DatabaseClasses\DatabaseClasses.csproj">
       <Project>{864126b2-cb70-410a-b947-c909699ff63a}</Project>
       <Name>DatabaseClasses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TodoConsoleApplication\TodoConsoleApplication.csproj">
-      <Project>{98258ce4-f25e-484c-8dd3-dbb426be4b6b}</Project>
-      <Name>TodoConsoleApplication</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\WcfTodo\WcfTodo.csproj">
-      <Project>{0ee6fd71-07dd-42c3-9964-6a45714d8a6d}</Project>
-      <Name>WcfTodo</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
